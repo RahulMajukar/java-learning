@@ -1,0 +1,8 @@
+1.component of computer
+2.software architecture
+3.Types of API's (REST,SOAP,GRAPHQL,gRPC,webhook,websocket,webRTC)  https://www.youtube.com/watch?v=T6XyrW-LKss
+4.frame works and libraries in frontend 
+
+
+
+5.database
